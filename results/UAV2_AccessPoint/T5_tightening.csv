@@ -1,0 +1,3 @@
+class,n_surv,n_feat,median_rho,frac_rho<0.5
+Fake Landing,60,9,0.0822,0.889
+Scanning,137,9,0.2201,0.778

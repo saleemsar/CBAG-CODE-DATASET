@@ -1,0 +1,82 @@
+class,gen,FVAS<1,FVAS<2,FVAS<4,FVAS<6,FVAS<8,FVAS<10
+Bruteforce,C-SA,0,0,1,1,1,1
+DDoS,C-SA,0,0,0,0,0,0
+De-authentication,C-SA,0,0,0,0,0,0
+DoS,C-SA,0,0,0,0,0,0
+Fake Landing,C-SA,0,0,0,0,0,0
+Fake Landing ,C-SA,0,0,0,0,0,0
+MITM,C-SA,0,1,2,2,2,2
+Reconnaissance,C-SA,0,0,0,0,0,0
+Scanning,C-SA,0,0,0,0,0,0
+Bruteforce,C-RL,0,0,0,0,0,0
+DDoS,C-RL,0,0,0,0,0,0
+De-authentication,C-RL,0,0,0,0,0,0
+DoS,C-RL,0,0,0,0,0,0
+Fake Landing,C-RL,0,0,0,0,0,0
+Fake Landing ,C-RL,0,0,0,0,0,0
+MITM,C-RL,0,0,0,0,0,0
+Reconnaissance,C-RL,0,0,0,0,0,0
+Scanning,C-RL,0,0,0,0,0,0
+Bruteforce,C-PSO,0,0,1,35,125,129
+DDoS,C-PSO,0,0,0,0,0,0
+De-authentication,C-PSO,0,0,0,0,0,0
+DoS,C-PSO,0,48,1306,1306,1306,1306
+Fake Landing,C-PSO,0,0,0,0,0,0
+Fake Landing ,C-PSO,0,0,0,1,1,1
+MITM,C-PSO,0,6,209,271,272,272
+Reconnaissance,C-PSO,0,345,782,782,782,782
+Scanning,C-PSO,0,13,42,42,42,42
+Bruteforce,C-GA,0,0,0,4,26,35
+DDoS,C-GA,0,0,0,0,0,0
+De-authentication,C-GA,0,0,0,0,0,0
+DoS,C-GA,0,7,161,162,162,162
+Fake Landing,C-GA,0,0,0,0,0,0
+Fake Landing ,C-GA,0,0,0,0,0,0
+MITM,C-GA,0,0,10,118,204,213
+Reconnaissance,C-GA,0,11,379,422,422,422
+Scanning,C-GA,0,1,25,35,35,35
+Bruteforce,C-BO,0,0,0,0,0,0
+DDoS,C-BO,0,0,0,0,0,0
+De-authentication,C-BO,0,0,0,0,0,0
+DoS,C-BO,0,1,5,5,5,5
+Fake Landing,C-BO,0,0,0,0,0,0
+Fake Landing ,C-BO,0,0,0,0,0,0
+MITM,C-BO,0,0,0,6,11,11
+Reconnaissance,C-BO,0,2,12,12,12,12
+Scanning,C-BO,0,0,2,2,2,2
+Bruteforce,CG-Diffusion,0,0,0,4,6,9
+DDoS,CG-Diffusion,0,0,0,0,0,0
+De-authentication,CG-Diffusion,0,0,0,0,0,0
+DoS,CG-Diffusion,0,6,9,9,9,9
+Fake Landing,CG-Diffusion,0,0,0,0,0,0
+Fake Landing ,CG-Diffusion,0,0,0,0,0,0
+MITM,CG-Diffusion,0,0,5,29,35,35
+Reconnaissance,CG-Diffusion,7,96,164,168,168,168
+Scanning,CG-Diffusion,0,1,3,3,3,3
+Bruteforce,CC-CGAN,0,0,1,15,62,64
+DDoS,CC-CGAN,0,0,0,0,0,0
+De-authentication,CC-CGAN,0,0,0,0,0,0
+DoS,CC-CGAN,0,0,388,388,388,388
+Fake Landing,CC-CGAN,0,0,0,0,0,0
+Fake Landing ,CC-CGAN,0,0,0,0,0,0
+MITM,CC-CGAN,0,0,0,0,0,0
+Reconnaissance,CC-CGAN,0,37,384,384,384,384
+Scanning,CC-CGAN,0,0,3,4,4,4
+Bruteforce,HopSkipJump,0,0,0,0,0,0
+DDoS,HopSkipJump,0,0,0,0,0,0
+De-authentication,HopSkipJump,0,0,0,0,0,0
+DoS,HopSkipJump,0,0,0,0,0,0
+Fake Landing,HopSkipJump,0,0,0,0,0,0
+Fake Landing ,HopSkipJump,0,0,0,0,0,0
+MITM,HopSkipJump,0,0,0,0,0,0
+Reconnaissance,HopSkipJump,0,0,0,0,0,0
+Scanning,HopSkipJump,0,0,0,0,0,0
+Bruteforce,Sign-OPT,0,0,0,0,0,0
+DDoS,Sign-OPT,0,0,0,0,0,0
+De-authentication,Sign-OPT,0,0,0,0,0,0
+DoS,Sign-OPT,0,0,0,0,0,0
+Fake Landing,Sign-OPT,0,0,0,0,0,0
+Fake Landing ,Sign-OPT,0,0,0,0,0,0
+MITM,Sign-OPT,0,0,0,0,0,0
+Reconnaissance,Sign-OPT,0,0,0,0,0,0
+Scanning,Sign-OPT,0,0,0,0,0,0

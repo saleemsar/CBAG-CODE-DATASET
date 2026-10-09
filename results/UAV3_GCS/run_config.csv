@@ -1,0 +1,13 @@
+setting,value
+DATASET,UAV3_GSC
+EVAL_CAP,2000
+generators,C-SA|C-RL|C-PSO|C-GA|C-BO|CG-Diffusion|CC-CGAN|HopSkipJump|Sign-OPT
+GATE1_THR,0.3
+GATE2_theta,0.5
+GATE2_CMR,False
+GATE3_operating,10
+HARD_SD_K,3.0
+CMR_PCT,90
+n_features,71
+n_DIFs,18
+n_classes,10

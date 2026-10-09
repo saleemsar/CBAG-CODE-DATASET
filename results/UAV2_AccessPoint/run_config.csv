@@ -1,0 +1,13 @@
+setting,value
+DATASET,AccessPoint
+EVAL_CAP,4000
+generators,C-SA|C-RL|C-PSO|C-GA|C-BO|CG-Diffusion|CC-CGAN|HopSkipJump|Sign-OPT
+GATE1_THR,0.5
+GATE2_theta,0.5
+GATE2_CMR,True
+GATE3_operating,0.1
+HARD_SD_K,3.0
+CMR_PCT,90
+n_features,35
+n_DIFs,15
+n_classes,9

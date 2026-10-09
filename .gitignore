@@ -1,0 +1,9 @@
+figures/
+analysis/fragments.txt
+cbag_out*/
+cnn_cache/
+FIG/
+SBAR_results*/
+data/*.csv
+__pycache__/
+.ipynb_checkpoints/

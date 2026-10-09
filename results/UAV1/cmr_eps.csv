@@ -1,0 +1,12 @@
+class,n_proj_features,n_centroids,cmr_eps
+BruteForce,2,1,1.7488
+DDoS,2,1,1.8687
+De-authentication,8,1,5.3534
+DoS,7,1,3.3646
+FakeLanding,2,1,0.1703
+ICMP Flooding,7,1,5.4733
+Jamming,3,1,5.8122
+MITM,2,1,0.869
+Scanning,5,1,5.1013
+UDP Flooding,6,1,2.6926
+replay,8,1,5.0098

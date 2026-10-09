@@ -1,0 +1,19 @@
+class,feature,raw_lo,raw_hi,surv_lo,surv_hi,rho,tightening_x
+Fake Landing,wlan.fcs.bad_checksum,0.0,13.0,0.8788,2.2509,0.1055,9.47
+Fake Landing,radiotap.channel.flags.cck,-98.4887,336.3277,-60.2816,333.7203,0.9061,1.1
+Fake Landing,wlan.fc.subtype,-0.194,0.2028,-0.016,0.0166,0.0822,12.17
+Fake Landing,udp.length,-15017.9297,16167.5625,-918.1667,778.9988,0.0544,18.38
+Fake Landing,nbss.continuation_data,-0.2086,0.2188,-0.0141,0.0122,0.0615,16.25
+Fake Landing,nbns,-24.5382,26.2723,-4.1303,6.9176,0.2174,4.6
+Fake Landing,radiotap.present.tsft,31.2508,41.5533,35.3019,39.0051,0.3594,2.78
+Fake Landing,wlan.fc.retry,0.0,2.0,0.0,0.0223,0.0112,89.69
+Fake Landing,wlan.fc.pwrmgt,-0.0,1.0,-0.0,0.0255,0.0255,39.22
+Scanning,radiotap.rxflags,-2742336.0,335702272.0,-2742336.0,285900800.0,0.8529,1.17
+Scanning,udp.length,-5513.3413,5656.5684,-783.3644,1674.7589,0.2201,4.54
+Scanning,nbss.continuation_data,-0.0923,0.0942,-0.0095,0.015,0.1314,7.61
+Scanning,nbns,-8.9421,9.16,-8.3759,9.16,0.9687,1.03
+Scanning,radiotap.present.tsft,31.8211,41.2016,34.6468,37.0099,0.2519,3.97
+Scanning,wlan_radio.data_rate,-13.2306,86.0519,2.0111,28.1754,0.2635,3.79
+Scanning,wlan.fc.retry,0.0,2.0,0.0,0.0709,0.0355,28.21
+Scanning,wlan.fcs.bad_checksum,0.0,13.0,0.0,0.2686,0.0207,48.4
+Scanning,wlan.fc.pwrmgt,-0.0,1.0,-0.0,0.017,0.017,58.82

@@ -1,0 +1,10 @@
+gen,type,candidates,evaded,functional,FVAS,evasion%,functional%_of_evaders,FVAS%,FVAS_per_1k_queries
+C-BO,constrained,9744,163,30,30,1.67,18.4,0.308,119.048
+C-GA,constrained,9750,4149,868,867,42.55,20.92,8.892,200.694
+C-PSO,constrained,9730,5169,2532,2532,53.12,48.98,26.023,586.111
+C-RL,constrained,9712,0,0,0,0.0,0.0,0.0,0.0
+C-SA,constrained,9735,7,3,3,0.07,42.86,0.031,0.833
+CC-CGAN,constrained,9716,3398,842,840,34.97,24.78,8.646,1244.444
+CG-Diffusion,constrained,9767,995,224,224,10.19,22.51,2.293,37.998
+HopSkipJump,baseline,9738,0,0,0,0.0,0.0,0.0,0.0
+Sign-OPT,baseline,9743,0,0,0,0.0,0.0,0.0,0.0

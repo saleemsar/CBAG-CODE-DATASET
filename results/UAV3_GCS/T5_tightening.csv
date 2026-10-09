@@ -1,0 +1,7 @@
+class,n_surv,n_feat,median_rho,frac_rho<0.5
+Bruteforce,238,17,1.0,0.0
+DoS,1870,8,1.0,0.125
+Fake Landing ,1,11,0.0,1.0
+MITM,533,16,1.0,0.0
+Reconnaissance,1768,12,1.0,0.0
+Scanning,86,12,0.9338,0.0

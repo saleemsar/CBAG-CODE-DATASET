@@ -1,0 +1,63 @@
+class,feature,n_survivors,frac_moved,mean_abs_delta
+BruteForce,radiotap.channel.flags.cck,4,1.0,0.6695
+BruteForce,udp.length,4,1.0,0.3072
+BruteForce,wlan.rsn.capabilities.mfpc,4,0.5,0.0251
+BruteForce,wlan.fcs.bad_checksum,4,0.25,0.0259
+BruteForce,wlan.fc.retry,4,0.0,0.0
+BruteForce,frame.encap_type,4,0.0,0.0
+De-authentication,wlan.fixed.capabilities.ess,1460,1.0,0.0256
+De-authentication,frame.len,1460,1.0,0.0259
+De-authentication,wlan.fc.subtype,1460,1.0,0.089
+De-authentication,arp,1460,1.0,8.2488
+De-authentication,tcp.ack,1460,1.0,0.1162
+De-authentication,wlan.bssid,1460,1.0,0.047
+De-authentication,wlan.fixed.beacon,1460,0.999,0.037
+De-authentication,wlan.fcs.bad_checksum,1460,0.997,0.1637
+De-authentication,wlan.rsn.capabilities.mfpc,1460,0.172,0.0249
+De-authentication,wlan.fc.retry,1460,0.082,0.0063
+De-authentication,frame.encap_type,1460,0.066,0.0013
+DoS,wlan.fixed.capabilities.ess,1188,1.0,0.0245
+DoS,wlan.fixed.beacon,1188,1.0,0.0448
+DoS,arp,1188,1.0,8.3469
+DoS,wlan.fc.subtype,1188,0.999,0.2132
+DoS,tcp.ack,1188,0.999,0.0388
+DoS,wlan.bssid,1188,0.997,0.0188
+DoS,wlan.rsn.capabilities.mfpc,1188,0.904,0.0502
+DoS,wlan.fcs.bad_checksum,1188,0.9,0.1158
+DoS,wlan.fc.retry,1188,0.217,0.0084
+DoS,frame.encap_type,1188,0.057,0.0017
+ICMP Flooding,wlan.fixed.capabilities.ess,236,1.0,0.0297
+ICMP Flooding,frame.len,236,1.0,0.0636
+ICMP Flooding,wlan.fc.subtype,236,1.0,2.1955
+ICMP Flooding,wlan.fixed.beacon,236,1.0,0.259
+ICMP Flooding,arp,236,1.0,3.5159
+ICMP Flooding,wlan.bssid,236,1.0,0.0904
+ICMP Flooding,wlan.fcs.bad_checksum,236,1.0,0.1019
+ICMP Flooding,wlan.rsn.capabilities.mfpc,236,1.0,0.0331
+ICMP Flooding,wlan.fc.retry,236,0.203,0.0143
+ICMP Flooding,frame.encap_type,236,0.008,0.0001
+MITM,radiotap.channel.flags.cck,29,1.0,0.0636
+MITM,udp.length,29,1.0,2.1429
+MITM,wlan.rsn.capabilities.mfpc,29,0.034,0.0007
+MITM,frame.encap_type,29,0.034,0.0032
+MITM,wlan.fc.retry,29,0.0,0.0
+MITM,wlan.fcs.bad_checksum,29,0.0,0.0
+Scanning,wlan.fixed.capabilities.ess,208,1.0,0.0309
+Scanning,wlan.fc.subtype,208,1.0,0.4781
+Scanning,arp,208,1.0,3.8378
+Scanning,wlan.bssid,208,1.0,0.1013
+Scanning,frame.encap_type,208,1.0,0.0259
+Scanning,wlan.fc.retry,208,0.986,0.0405
+Scanning,wlan.rsn.capabilities.mfpc,208,0.885,0.3617
+Scanning,wlan.fcs.bad_checksum,208,0.115,0.0187
+replay,wlan.fixed.capabilities.ess,666,1.0,0.018
+replay,frame.len,666,1.0,0.0238
+replay,wlan.fc.subtype,666,1.0,0.0618
+replay,wlan.fixed.beacon,666,1.0,0.0393
+replay,arp,666,1.0,9.2625
+replay,tcp.ack,666,1.0,0.0821
+replay,wlan.bssid,666,1.0,0.0429
+replay,wlan.fcs.bad_checksum,666,1.0,0.1835
+replay,wlan.rsn.capabilities.mfpc,666,0.995,0.008
+replay,wlan.fc.retry,666,0.224,0.0097
+replay,frame.encap_type,666,0.096,0.0028

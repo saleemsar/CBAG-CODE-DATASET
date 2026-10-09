@@ -1,0 +1,82 @@
+class,gen,n,G1_evade,G1G2_func,FVAS,ASR_toNormal%,L1_mean,queries
+Bruteforce,C-SA,1988,1,1,1,0.05,2.1791,400
+DDoS,C-SA,2000,0,0,0,0.0,0.0,400
+De-authentication,C-SA,15,0,0,0,0.0,0.0,400
+DoS,C-SA,1940,0,0,0,0.0,0.0,400
+Fake Landing,C-SA,26,0,0,0,0.0,0.0,400
+Fake Landing ,C-SA,34,0,0,0,0.0,0.0,400
+MITM,C-SA,657,6,2,2,0.91,2.2736,400
+Reconnaissance,C-SA,1995,0,0,0,0.0,0.0,400
+Scanning,C-SA,1080,0,0,0,0.0,0.0,400
+Bruteforce,C-RL,1987,0,0,0,0.0,0.0,240
+DDoS,C-RL,2000,0,0,0,0.0,0.0,240
+De-authentication,C-RL,15,0,0,0,0.0,0.0,240
+DoS,C-RL,1941,0,0,0,0.0,0.0,240
+Fake Landing,C-RL,26,0,0,0,0.0,0.0,240
+Fake Landing ,C-RL,34,0,0,0,0.0,0.0,240
+MITM,C-RL,657,0,0,0,0.0,0.0,240
+Reconnaissance,C-RL,1996,0,0,0,0.0,0.0,240
+Scanning,C-RL,1056,0,0,0,0.0,0.0,240
+Bruteforce,C-PSO,1990,129,129,129,6.48,6.5091,480
+DDoS,C-PSO,2000,0,0,0,0.0,0.0,480
+De-authentication,C-PSO,15,0,0,0,0.0,0.0,480
+DoS,C-PSO,1947,1486,1306,1306,76.32,2.3064,480
+Fake Landing,C-PSO,26,1,0,0,3.85,0.0,480
+Fake Landing ,C-PSO,34,2,1,1,5.88,4.2733,480
+MITM,C-PSO,657,518,272,272,78.84,3.3951,480
+Reconnaissance,C-PSO,1996,1996,782,782,100.0,2.1187,480
+Scanning,C-PSO,1065,1037,42,42,97.37,2.0706,480
+Bruteforce,C-GA,1988,36,36,35,1.81,7.2785,480
+DDoS,C-GA,2000,0,0,0,0.0,0.0,480
+De-authentication,C-GA,15,0,0,0,0.0,0.0,480
+DoS,C-GA,1939,769,162,162,39.66,2.7839,480
+Fake Landing,C-GA,26,1,0,0,3.85,0.0,480
+Fake Landing ,C-GA,34,0,0,0,0.0,0.0,480
+MITM,C-GA,657,386,213,213,58.75,5.9357,480
+Reconnaissance,C-GA,1997,1994,422,422,99.85,3.2029,480
+Scanning,C-GA,1094,963,35,35,88.03,3.3773,480
+Bruteforce,C-BO,1989,0,0,0,0.0,0.0,28
+DDoS,C-BO,2000,0,0,0,0.0,0.0,28
+De-authentication,C-BO,15,0,0,0,0.0,0.0,28
+DoS,C-BO,1936,17,5,5,0.88,2.2639,28
+Fake Landing,C-BO,26,0,0,0,0.0,0.0,28
+Fake Landing ,C-BO,34,0,0,0,0.0,0.0,28
+MITM,C-BO,657,33,11,11,5.02,6.0748,28
+Reconnaissance,C-BO,1997,60,12,12,3.0,2.6671,28
+Scanning,C-BO,1090,53,2,2,4.86,2.5268,28
+Bruteforce,CG-Diffusion,1988,10,9,9,0.5,6.6444,655
+DDoS,CG-Diffusion,2000,0,0,0,0.0,0.0,655
+De-authentication,CG-Diffusion,15,0,0,0,0.0,0.0,655
+DoS,CG-Diffusion,1946,28,9,9,1.44,1.9685,655
+Fake Landing,CG-Diffusion,26,0,0,0,0.0,0.0,655
+Fake Landing ,CG-Diffusion,34,0,0,0,0.0,0.0,655
+MITM,CG-Diffusion,657,50,35,35,7.61,5.1184,655
+Reconnaissance,CG-Diffusion,1994,851,168,168,42.68,1.9704,655
+Scanning,CG-Diffusion,1107,56,3,3,5.06,2.0591,655
+Bruteforce,CC-CGAN,1987,66,66,64,3.32,6.4104,75
+DDoS,CC-CGAN,2000,0,0,0,0.0,0.0,75
+De-authentication,CC-CGAN,15,0,0,0,0.0,0.0,75
+DoS,CC-CGAN,1945,613,388,388,31.52,2.5277,75
+Fake Landing,CC-CGAN,26,0,0,0,0.0,0.0,75
+Fake Landing ,CC-CGAN,34,0,0,0,0.0,0.0,75
+MITM,CC-CGAN,657,140,0,0,21.31,0.0,75
+Reconnaissance,CC-CGAN,1996,1992,384,384,99.8,2.5946,75
+Scanning,CC-CGAN,1056,587,4,4,55.59,3.4956,75
+Bruteforce,HopSkipJump,1989,0,0,0,0.0,0.0,312
+DDoS,HopSkipJump,2000,0,0,0,0.0,0.0,312
+De-authentication,HopSkipJump,15,0,0,0,0.0,0.0,312
+DoS,HopSkipJump,1942,0,0,0,0.0,0.0,312
+Fake Landing,HopSkipJump,26,0,0,0,0.0,0.0,312
+Fake Landing ,HopSkipJump,34,0,0,0,0.0,0.0,312
+MITM,HopSkipJump,657,0,0,0,0.0,0.0,312
+Reconnaissance,HopSkipJump,1999,0,0,0,0.0,0.0,312
+Scanning,HopSkipJump,1076,0,0,0,0.0,0.0,312
+Bruteforce,Sign-OPT,1992,0,0,0,0.0,0.0,240
+DDoS,Sign-OPT,2000,0,0,0,0.0,0.0,240
+De-authentication,Sign-OPT,15,0,0,0,0.0,0.0,240
+DoS,Sign-OPT,1940,0,0,0,0.0,0.0,240
+Fake Landing,Sign-OPT,26,0,0,0,0.0,0.0,240
+Fake Landing ,Sign-OPT,34,0,0,0,0.0,0.0,240
+MITM,Sign-OPT,657,0,0,0,0.0,0.0,240
+Reconnaissance,Sign-OPT,1996,0,0,0,0.0,0.0,240
+Scanning,Sign-OPT,1083,0,0,0,0.0,0.0,240

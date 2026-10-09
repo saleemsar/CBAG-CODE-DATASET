@@ -1,0 +1,73 @@
+class,gen,FVAS<0.1,FVAS<0.25,FVAS<0.5,FVAS<1.0,FVAS<2.0
+Brute-Force,C-SA,0,2,5,6,7
+DDoS,C-SA,0,9,312,700,848
+De-authentication,C-SA,0,288,1634,1893,1969
+DoS,C-SA,0,0,480,652,737
+Fake Landing,C-SA,27,93,95,98,99
+MITM,C-SA,0,0,0,0,0
+Replay,C-SA,0,0,0,0,0
+Scanning,C-SA,59,2110,3304,3330,3330
+Brute-Force,C-RL,0,0,0,0,0
+DDoS,C-RL,0,0,0,1498,1498
+De-authentication,C-RL,0,0,1157,2905,3075
+DoS,C-RL,0,0,0,0,0
+Fake Landing,C-RL,0,177,196,196,196
+MITM,C-RL,0,0,0,0,0
+Replay,C-RL,0,0,0,0,0
+Scanning,C-RL,0,0,3177,3471,3515
+Brute-Force,C-PSO,0,0,2,2,3
+DDoS,C-PSO,0,52,496,594,706
+De-authentication,C-PSO,0,502,1565,1738,1802
+DoS,C-PSO,0,0,297,503,671
+Fake Landing,C-PSO,33,69,79,84,85
+MITM,C-PSO,0,0,0,0,0
+Replay,C-PSO,0,0,0,0,0
+Scanning,C-PSO,78,1577,2317,2429,2464
+Brute-Force,C-GA,0,0,0,0,1
+DDoS,C-GA,0,1,56,104,142
+De-authentication,C-GA,0,17,324,1046,1231
+DoS,C-GA,0,0,2,66,218
+Fake Landing,C-GA,0,0,1,1,1
+MITM,C-GA,0,0,0,0,0
+Replay,C-GA,0,0,0,0,0
+Scanning,C-GA,0,4,248,967,1266
+Brute-Force,C-BO,0,0,0,0,0
+DDoS,C-BO,0,0,0,5,6
+De-authentication,C-BO,0,0,1,23,28
+DoS,C-BO,0,0,0,1,4
+Fake Landing,C-BO,0,0,0,0,0
+MITM,C-BO,0,0,0,0,0
+Replay,C-BO,0,0,0,0,0
+Scanning,C-BO,0,0,1,9,13
+Brute-Force,CG-Diffusion,0,0,0,0,1
+DDoS,CG-Diffusion,0,4,94,208,334
+De-authentication,CG-Diffusion,0,16,371,651,705
+DoS,CG-Diffusion,0,0,1,4,20
+Fake Landing,CG-Diffusion,0,4,4,5,5
+MITM,CG-Diffusion,0,0,0,0,0
+Replay,CG-Diffusion,0,0,0,0,0
+Scanning,CG-Diffusion,0,27,1147,2196,2238
+Brute-Force,CC-CGAN,0,0,0,0,0
+DDoS,CC-CGAN,0,2,113,215,340
+De-authentication,CC-CGAN,0,8,287,472,556
+DoS,CC-CGAN,0,0,0,0,3
+Fake Landing,CC-CGAN,0,0,0,0,0
+MITM,CC-CGAN,0,0,0,0,0
+Replay,CC-CGAN,0,0,0,0,0
+Scanning,CC-CGAN,0,3,91,592,606
+Brute-Force,HopSkipJump,0,0,0,0,0
+DDoS,HopSkipJump,0,0,0,0,0
+De-authentication,HopSkipJump,0,0,0,0,0
+DoS,HopSkipJump,0,0,0,0,0
+Fake Landing,HopSkipJump,0,0,0,0,0
+MITM,HopSkipJump,0,0,0,0,0
+Replay,HopSkipJump,0,0,0,0,0
+Scanning,HopSkipJump,0,0,0,0,0
+Brute-Force,Sign-OPT,0,0,0,0,0
+DDoS,Sign-OPT,0,0,0,0,0
+De-authentication,Sign-OPT,0,0,0,2,2
+DoS,Sign-OPT,0,0,0,0,0
+Fake Landing,Sign-OPT,0,0,0,0,0
+MITM,Sign-OPT,0,0,0,0,0
+Replay,Sign-OPT,0,0,0,0,0
+Scanning,Sign-OPT,0,0,0,0,0

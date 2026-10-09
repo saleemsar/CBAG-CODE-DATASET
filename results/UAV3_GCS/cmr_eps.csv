@@ -1,0 +1,10 @@
+class,n_proj_features,n_centroids,cmr_eps
+Bruteforce,17,1,7.552
+DDoS,2,1,2.541
+De-authentication,2,1,0.2382
+DoS,8,1,0.251
+Fake Landing,11,1,16.2542
+Fake Landing ,11,1,17.3525
+MITM,16,1,18.8182
+Reconnaissance,12,1,0.4115
+Scanning,12,1,4.7263

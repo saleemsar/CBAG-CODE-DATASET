@@ -1,0 +1,10 @@
+class,train_rows,test_rows
+Brute-Force,129381,43128
+DDoS,23709,7903
+De-authentication,116673,38891
+DoS,17709,5903
+Fake Landing,18438,6146
+MITM,3762,1254
+Normal,97156,32385
+Replay,6394,2131
+Scanning,52739,17580

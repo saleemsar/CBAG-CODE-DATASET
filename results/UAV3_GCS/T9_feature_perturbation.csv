@@ -1,0 +1,77 @@
+class,feature,n_survivors,frac_moved,mean_abs_delta
+Bruteforce,fwd_header_size_min,238,1.0,2.4321
+Bruteforce,idle.std,238,1.0,1.8878
+Bruteforce,bwd_header_size_tot,238,1.0,4.3067
+Bruteforce,bwd_header_size_min,238,1.0,4.0728
+Bruteforce,fwd_header_size_tot,238,1.0,2.1723
+Bruteforce,bwd_header_size_max,238,1.0,7.9647
+Bruteforce,bwd_pkts_per_sec,238,1.0,0.0763
+Bruteforce,bwd_init_window_size,238,1.0,0.0984
+Bruteforce,bwd_data_pkts_tot,238,1.0,0.0911
+Bruteforce,fwd_PSH_flag_count,238,1.0,3.6469
+Bruteforce,fwd_pkts_payload.avg,238,1.0,9.4676
+Bruteforce,fwd_pkts_payload.max,238,1.0,53.2629
+Bruteforce,flow_ECE_flag_count,238,1.0,15.0344
+Bruteforce,bwd_pkts_payload.avg,238,1.0,4.3394
+Bruteforce,bwd_pkts_payload.tot,238,1.0,5.5834
+Bruteforce,fwd_pkts_payload.min,238,1.0,21.1014
+Bruteforce,bwd_pkts_payload.std,238,1.0,46.0198
+DoS,bwd_header_size_tot,1870,1.0,2.3245
+DoS,bwd_header_size_min,1870,1.0,2.0964
+DoS,bwd_pkts_per_sec,1870,1.0,0.2944
+DoS,bwd_data_pkts_tot,1870,1.0,0.2565
+DoS,fwd_pkts_payload.max,1870,1.0,39.4766
+DoS,flow_ECE_flag_count,1870,1.0,12.147
+DoS,fwd_pkts_payload.min,1870,1.0,13.37
+DoS,bwd_pkts_payload.std,1870,1.0,47.6442
+Fake Landing ,fwd_header_size_min,1,1.0,3.25
+Fake Landing ,idle.std,1,1.0,0.0039
+Fake Landing ,bwd_header_size_tot,1,1.0,0.1169
+Fake Landing ,bwd_header_size_min,1,1.0,0.1221
+Fake Landing ,fwd_header_size_tot,1,1.0,10.5786
+Fake Landing ,bwd_header_size_max,1,1.0,0.2888
+Fake Landing ,fwd_pkts_payload.avg,1,1.0,18.9422
+Fake Landing ,fwd_pkts_payload.max,1,1.0,2.1756
+Fake Landing ,bwd_pkts_payload.avg,1,1.0,2.2715
+Fake Landing ,bwd_pkts_payload.tot,1,1.0,13.0586
+Fake Landing ,fwd_pkts_payload.min,1,1.0,6.613
+MITM,fwd_header_size_min,533,1.0,2.377
+MITM,idle.std,533,1.0,1.1554
+MITM,bwd_header_size_tot,533,1.0,0.2669
+MITM,bwd_header_size_min,533,1.0,0.2519
+MITM,fwd_header_size_tot,533,1.0,2.3898
+MITM,bwd_header_size_max,533,1.0,1.3619
+MITM,bwd_pkts_per_sec,533,1.0,0.0851
+MITM,bwd_init_window_size,533,1.0,1.0835
+MITM,bwd_data_pkts_tot,533,1.0,0.0895
+MITM,fwd_pkts_payload.avg,533,1.0,18.1426
+MITM,fwd_pkts_payload.max,533,1.0,30.9589
+MITM,flow_ECE_flag_count,533,1.0,15.8704
+MITM,bwd_pkts_payload.avg,533,1.0,0.9897
+MITM,bwd_pkts_payload.tot,533,1.0,5.1516
+MITM,fwd_pkts_payload.min,533,1.0,13.7308
+MITM,bwd_pkts_payload.std,533,1.0,47.7595
+Reconnaissance,fwd_header_size_min,1768,1.0,0.8402
+Reconnaissance,idle.std,1768,1.0,0.0598
+Reconnaissance,bwd_header_size_tot,1768,1.0,2.344
+Reconnaissance,bwd_header_size_min,1768,1.0,2.0931
+Reconnaissance,fwd_header_size_tot,1768,1.0,1.5076
+Reconnaissance,bwd_pkts_per_sec,1768,1.0,0.1701
+Reconnaissance,bwd_init_window_size,1768,1.0,0.0703
+Reconnaissance,bwd_data_pkts_tot,1768,1.0,0.146
+Reconnaissance,fwd_pkts_payload.max,1768,1.0,24.638
+Reconnaissance,flow_ECE_flag_count,1768,1.0,14.0954
+Reconnaissance,fwd_pkts_payload.min,1768,1.0,14.6014
+Reconnaissance,bwd_pkts_payload.std,1768,1.0,39.5155
+Scanning,fwd_header_size_min,86,1.0,1.2972
+Scanning,idle.std,86,1.0,0.0542
+Scanning,bwd_header_size_tot,86,1.0,2.9145
+Scanning,bwd_header_size_min,86,1.0,2.8235
+Scanning,fwd_header_size_tot,86,1.0,0.9193
+Scanning,bwd_pkts_per_sec,86,1.0,0.1203
+Scanning,bwd_init_window_size,86,1.0,0.0445
+Scanning,bwd_data_pkts_tot,86,1.0,0.131
+Scanning,fwd_pkts_payload.max,86,1.0,24.0
+Scanning,flow_ECE_flag_count,86,1.0,13.2815
+Scanning,fwd_pkts_payload.min,86,1.0,17.0647
+Scanning,bwd_pkts_payload.std,86,1.0,44.6719

@@ -1,0 +1,77 @@
+class,feature,raw_lo,raw_hi,surv_lo,surv_hi,rho,tightening_x
+Bruteforce,fwd_header_size_min,8.0,51.1744,8.0,51.1744,1.0,1.0
+Bruteforce,idle.std,-63285.2578,127972.7422,-63285.2578,127972.7422,1.0,1.0
+Bruteforce,bwd_header_size_tot,-6.3408,45.5558,-6.3408,45.5558,1.0,1.0
+Bruteforce,bwd_header_size_min,-6.3408,52.6118,-6.3408,52.6118,1.0,1.0
+Bruteforce,fwd_header_size_tot,-24.8881,56.4003,-21.166,56.4003,0.9542,1.05
+Bruteforce,bwd_header_size_max,-2.0211,3.9571,-2.0211,3.5553,0.9328,1.07
+Bruteforce,bwd_pkts_per_sec,-120503.5312,122245.375,-120503.5312,122245.375,1.0,1.0
+Bruteforce,bwd_init_window_size,-9109.125,10434.332,-9109.125,10434.332,1.0,1.0
+Bruteforce,bwd_data_pkts_tot,-60251.0781,61123.4531,-60251.0781,54362.5234,0.9443,1.06
+Bruteforce,fwd_PSH_flag_count,-0.0,5.4247,-0.0,5.2085,0.9602,1.04
+Bruteforce,fwd_pkts_payload.avg,-40.686,74.8772,-40.686,67.6313,0.9373,1.07
+Bruteforce,fwd_pkts_payload.max,-573.613,1006.5153,-573.613,449.1342,0.6473,1.54
+Bruteforce,flow_ECE_flag_count,-119.5424,179.2984,-119.5424,151.3194,0.9064,1.1
+Bruteforce,bwd_pkts_payload.avg,-6.6692,19.9715,-6.6692,19.9715,1.0,1.0
+Bruteforce,bwd_pkts_payload.tot,-16.0501,20.0014,-16.0501,20.0014,1.0,1.0
+Bruteforce,fwd_pkts_payload.min,-117.5702,238.3019,-117.5702,162.9461,0.7883,1.27
+Bruteforce,bwd_pkts_payload.std,-139.0178,219.9934,-139.0178,219.9934,1.0,1.0
+DoS,bwd_header_size_tot,-6.3408,20.6053,-6.3408,20.6053,1.0,1.0
+DoS,bwd_header_size_min,-6.3408,20.6033,-6.3408,20.6033,1.0,1.0
+DoS,bwd_pkts_per_sec,-31657.4688,266393.125,-31657.4688,266393.125,1.0,1.0
+DoS,bwd_data_pkts_tot,-31658.3438,133211.5469,-31658.3438,133211.5469,1.0,1.0
+DoS,fwd_pkts_payload.max,-573.613,1006.5153,-573.613,1006.5153,1.0,1.0
+DoS,flow_ECE_flag_count,-119.5424,179.2984,-119.5424,44.7595,0.5498,1.82
+DoS,fwd_pkts_payload.min,-117.5702,238.3019,-117.5702,238.3019,1.0,1.0
+DoS,bwd_pkts_payload.std,-139.0178,219.9934,-139.0178,-90.8506,0.1342,7.45
+Fake Landing ,fwd_header_size_min,-27.2877,65.494,26.4328,26.4328,0.0,
+Fake Landing ,idle.std,-17930.6328,19266.0469,-68.1953,-68.1953,0.0,
+Fake Landing ,bwd_header_size_tot,-6.3408,7.9018,0.3968,0.3968,0.0,
+Fake Landing ,bwd_header_size_min,-6.3408,7.9018,0.4579,0.4579,0.0,
+Fake Landing ,fwd_header_size_tot,-24.8881,67.9063,67.9063,67.9063,0.0,
+Fake Landing ,bwd_header_size_max,-0.8768,0.9743,0.0447,0.0447,0.0,
+Fake Landing ,fwd_pkts_payload.avg,-40.686,100.3178,8.1972,8.1972,0.0,
+Fake Landing ,fwd_pkts_payload.max,-573.613,1006.5153,72.6356,72.6356,0.0,
+Fake Landing ,bwd_pkts_payload.avg,-6.6692,7.4114,-3.6382,-3.6382,0.0,
+Fake Landing ,bwd_pkts_payload.tot,-16.0501,20.0014,-16.0501,-16.0501,0.0,
+Fake Landing ,fwd_pkts_payload.min,-117.5702,238.3019,23.1434,23.1434,0.0,
+MITM,fwd_header_size_min,-27.3121,65.991,-27.3121,65.991,1.0,1.0
+MITM,idle.std,-61794.0547,84033.6406,-61794.0547,84033.6406,1.0,1.0
+MITM,bwd_header_size_tot,-6.3408,7.9018,-6.3408,7.9018,1.0,1.0
+MITM,bwd_header_size_min,-6.3408,7.9018,-6.3408,7.9018,1.0,1.0
+MITM,fwd_header_size_tot,-26.7433,66.1961,-26.7433,66.1961,1.0,1.0
+MITM,bwd_header_size_max,-0.8768,0.9743,-0.8768,0.9743,1.0,1.0
+MITM,bwd_pkts_per_sec,-252496.7812,260622.1094,-252496.7812,260622.1094,1.0,1.0
+MITM,bwd_init_window_size,-61667.9766,83755.2109,-61667.9766,83755.2109,1.0,1.0
+MITM,bwd_data_pkts_tot,-118714.2031,121930.6328,-118714.2031,121930.6328,1.0,1.0
+MITM,fwd_pkts_payload.avg,-53.1912,85.2566,-53.1912,85.2566,1.0,1.0
+MITM,fwd_pkts_payload.max,-573.613,1006.5153,-573.613,1006.5153,1.0,1.0
+MITM,flow_ECE_flag_count,-119.5424,179.2984,-119.5424,179.2984,1.0,1.0
+MITM,bwd_pkts_payload.avg,-6.6692,7.4114,-6.6692,7.4114,1.0,1.0
+MITM,bwd_pkts_payload.tot,-16.0501,20.0014,-16.0501,20.0014,1.0,1.0
+MITM,fwd_pkts_payload.min,-117.5702,238.3019,-117.5702,238.3019,1.0,1.0
+MITM,bwd_pkts_payload.std,-139.0178,219.9934,-139.0178,219.9934,1.0,1.0
+Reconnaissance,fwd_header_size_min,8.0,22.2064,8.0,22.2064,1.0,1.0
+Reconnaissance,idle.std,-5801.3789,6968.2422,-5801.3789,6968.2422,1.0,1.0
+Reconnaissance,bwd_header_size_tot,-6.3408,22.2967,-6.3408,22.2967,1.0,1.0
+Reconnaissance,bwd_header_size_min,-6.3408,22.2968,-6.3408,22.2968,1.0,1.0
+Reconnaissance,fwd_header_size_tot,-24.8881,56.4003,-24.8881,56.4003,1.0,1.0
+Reconnaissance,bwd_pkts_per_sec,-109878.8125,265150.4688,-109878.8125,265150.4688,1.0,1.0
+Reconnaissance,bwd_init_window_size,-5803.918,6966.4531,-5803.918,6966.4531,1.0,1.0
+Reconnaissance,bwd_data_pkts_tot,-54940.2656,132574.8438,-54940.2656,132574.8438,1.0,1.0
+Reconnaissance,fwd_pkts_payload.max,-573.613,1006.5153,-573.613,1006.5153,1.0,1.0
+Reconnaissance,flow_ECE_flag_count,-119.5424,179.2984,-119.5424,176.6368,0.9911,1.01
+Reconnaissance,fwd_pkts_payload.min,-117.5702,238.3019,-117.5702,238.3019,1.0,1.0
+Reconnaissance,bwd_pkts_payload.std,-139.0178,219.9934,-139.0178,219.9934,1.0,1.0
+Scanning,fwd_header_size_min,8.0,28.6232,10.3424,28.6232,0.8864,1.13
+Scanning,idle.std,-4537.3828,6190.3047,-4537.3828,6135.6641,0.9949,1.01
+Scanning,bwd_header_size_tot,-17.6289,41.3371,-14.8868,38.7289,0.9093,1.1
+Scanning,bwd_header_size_min,-17.631,41.3327,-16.3387,41.3327,0.9781,1.02
+Scanning,fwd_header_size_tot,-24.8881,56.4003,-14.948,48.0435,0.7749,1.29
+Scanning,bwd_pkts_per_sec,-135019.4375,231586.0156,-131832.4062,93144.8281,0.6137,1.63
+Scanning,bwd_init_window_size,-4534.1914,6194.3477,-4227.8984,5121.5742,0.8715,1.15
+Scanning,bwd_data_pkts_tot,-67503.6406,115793.4766,-67503.6406,115793.4766,1.0,1.0
+Scanning,fwd_pkts_payload.max,-573.613,1006.5153,-538.9301,958.6932,0.9478,1.06
+Scanning,flow_ECE_flag_count,-119.5424,179.2984,-114.9956,159.8589,0.9197,1.09
+Scanning,fwd_pkts_payload.min,-117.5702,238.3019,-117.5702,228.5377,0.9726,1.03
+Scanning,bwd_pkts_payload.std,-139.0178,219.9934,-139.0178,204.5482,0.957,1.04

@@ -1,0 +1,24 @@
+class,feature,raw_lo,raw_hi,surv_lo,surv_hi,rho,tightening_x
+De-authentication,wlan.fixed.capabilities.ess,-10.5212,15.2456,0.0206,0.0206,0.0,
+De-authentication,frame.len,-582.744,782.3915,-2.6832,-2.6832,0.0,
+De-authentication,wlan.fc.subtype,-0.2088,0.2191,0.003,0.003,0.0,
+De-authentication,wlan.fixed.beacon,-0.1751,0.1822,0.0179,0.0179,0.0,
+De-authentication,arp,-3.8252,4.082,-1.3379,-1.3379,0.0,
+De-authentication,tcp.ack,-444790177792.0,512667549696.0,-22043971584.0,-22043971584.0,0.0,
+De-authentication,wlan.fc.retry,0.0,2.0,0.0,0.0,0.0,
+De-authentication,wlan.bssid,-203.5427,647.6522,312.2846,312.2846,0.0,
+De-authentication,frame.encap_type,1.0,23.0,23.0,23.0,0.0,
+ICMP Flooding,wlan.fixed.capabilities.ess,-0.4989,18.9779,3.6546,13.9744,0.5299,1.89
+ICMP Flooding,frame.len,-964.4116,1368.6678,-964.4116,1368.6678,1.0,1.0
+ICMP Flooding,wlan.fc.subtype,-0.22,0.2314,-0.1204,0.079,0.4417,2.26
+ICMP Flooding,wlan.fixed.beacon,-0.7083,0.8547,-0.1017,0.177,0.1783,5.61
+ICMP Flooding,arp,-1.2685,1.3329,-1.2685,-1.2031,0.0251,39.78
+ICMP Flooding,wlan.fc.retry,0.0,2.0,0.0,1.075,0.5375,1.86
+ICMP Flooding,wlan.bssid,-24.7961,29.5432,-24.7961,29.5432,1.0,1.0
+ICMP Flooding,frame.encap_type,1.0,23.0,22.706,23.0,0.0134,74.83
+Scanning,wlan.fixed.capabilities.ess,-3.0192,3.1724,-0.4416,1.9212,0.3816,2.62
+Scanning,wlan.fc.subtype,-0.1916,0.2002,-0.0305,0.024,0.1391,7.19
+Scanning,arp,-1.3838,1.3998,-1.3838,-1.3838,0.0,
+Scanning,wlan.fc.retry,0.0,2.0,0.0,1.0437,0.5219,1.92
+Scanning,wlan.bssid,-158.5808,633.6681,161.0565,354.4898,0.2442,4.1
+Scanning,frame.encap_type,1.0,23.0,19.5894,20.5706,0.0446,22.42

@@ -1,0 +1,13 @@
+class,train_rows,test_rows
+BruteForce,131944,43981
+DDoS,144878,48293
+De-authentication,10954,3652
+DoS,4818,1606
+FakeLanding,18037,6013
+ICMP Flooding,35658,11886
+Jamming,31200,10400
+MITM,113689,37897
+Normal,13462,4487
+Scanning,6773,2257
+UDP Flooding,114581,38194
+replay,19483,6494

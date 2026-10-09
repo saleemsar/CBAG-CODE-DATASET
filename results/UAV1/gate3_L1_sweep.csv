@@ -1,0 +1,100 @@
+class,gen,FVAS<0.1,FVAS<0.25,FVAS<0.5,FVAS<1.0,FVAS<1.5,FVAS<2.0
+BruteForce,C-SA,0,0,0,0,0,0
+DDoS,C-SA,0,0,0,0,0,0
+De-authentication,C-SA,0,1,19,53,59,66
+DoS,C-SA,0,0,0,1,5,5
+FakeLanding,C-SA,0,0,0,0,0,0
+ICMP Flooding,C-SA,2,180,638,818,856,861
+Jamming,C-SA,0,0,0,99,263,277
+MITM,C-SA,0,0,0,0,0,0
+Scanning,C-SA,2,16,345,459,479,481
+UDP Flooding,C-SA,0,0,0,0,2,6
+replay,C-SA,0,0,0,0,17,28
+BruteForce,C-RL,0,0,0,0,0,0
+DDoS,C-RL,0,0,0,0,0,0
+De-authentication,C-RL,0,0,0,0,0,0
+DoS,C-RL,0,0,0,0,0,0
+FakeLanding,C-RL,0,0,0,0,0,0
+ICMP Flooding,C-RL,0,0,0,0,0,0
+Jamming,C-RL,0,0,0,0,0,0
+MITM,C-RL,0,0,0,0,0,0
+Scanning,C-RL,0,0,0,0,0,0
+UDP Flooding,C-RL,0,0,0,0,0,0
+replay,C-RL,0,0,0,0,0,0
+BruteForce,C-PSO,0,0,0,0,0,0
+DDoS,C-PSO,0,0,0,0,0,0
+De-authentication,C-PSO,0,0,0,0,0,0
+DoS,C-PSO,0,0,0,0,0,0
+FakeLanding,C-PSO,0,0,0,0,0,0
+ICMP Flooding,C-PSO,0,55,153,240,263,266
+Jamming,C-PSO,0,0,0,2,232,396
+MITM,C-PSO,0,0,0,0,0,0
+Scanning,C-PSO,1,12,369,550,646,648
+UDP Flooding,C-PSO,0,0,0,0,0,0
+replay,C-PSO,0,0,0,0,4,12
+BruteForce,C-GA,0,0,0,0,0,0
+DDoS,C-GA,0,0,0,0,0,0
+De-authentication,C-GA,0,0,0,1,1,1
+DoS,C-GA,0,0,0,0,0,0
+FakeLanding,C-GA,0,0,0,0,0,0
+ICMP Flooding,C-GA,0,1,7,66,133,173
+Jamming,C-GA,0,0,0,2,16,67
+MITM,C-GA,0,0,0,0,0,0
+Scanning,C-GA,0,0,5,106,215,272
+UDP Flooding,C-GA,0,0,0,0,0,0
+replay,C-GA,0,0,0,0,0,0
+BruteForce,C-BO,0,0,0,0,0,0
+DDoS,C-BO,0,0,0,0,0,0
+De-authentication,C-BO,0,0,0,0,0,0
+DoS,C-BO,0,0,0,0,0,0
+FakeLanding,C-BO,0,0,0,0,0,0
+ICMP Flooding,C-BO,0,0,0,0,0,2
+Jamming,C-BO,0,0,0,0,0,0
+MITM,C-BO,0,0,0,0,0,0
+Scanning,C-BO,0,0,0,5,8,11
+UDP Flooding,C-BO,0,0,0,0,0,0
+replay,C-BO,0,0,0,0,0,0
+BruteForce,CG-Diffusion,0,0,0,0,0,0
+DDoS,CG-Diffusion,0,0,0,0,0,0
+De-authentication,CG-Diffusion,0,0,0,4,19,35
+DoS,CG-Diffusion,0,0,0,0,0,0
+FakeLanding,CG-Diffusion,0,0,0,0,0,0
+ICMP Flooding,CG-Diffusion,0,0,0,7,60,101
+Jamming,CG-Diffusion,0,0,0,6,143,284
+MITM,CG-Diffusion,0,0,0,0,0,0
+Scanning,CG-Diffusion,0,0,0,4,6,12
+UDP Flooding,CG-Diffusion,0,0,0,0,0,0
+replay,CG-Diffusion,0,0,0,0,0,0
+BruteForce,CC-CGAN,0,0,0,0,0,0
+DDoS,CC-CGAN,0,0,0,0,0,0
+De-authentication,CC-CGAN,0,0,0,0,0,0
+DoS,CC-CGAN,0,0,0,0,0,0
+FakeLanding,CC-CGAN,0,0,0,0,0,0
+ICMP Flooding,CC-CGAN,0,0,12,183,225,235
+Jamming,CC-CGAN,0,0,0,0,0,0
+MITM,CC-CGAN,0,0,0,0,0,0
+Scanning,CC-CGAN,0,0,0,81,164,171
+UDP Flooding,CC-CGAN,0,0,0,0,0,0
+replay,CC-CGAN,0,0,0,0,0,0
+BruteForce,HopSkipJump,0,0,0,0,0,0
+DDoS,HopSkipJump,0,0,0,0,0,0
+De-authentication,HopSkipJump,0,0,0,0,0,0
+DoS,HopSkipJump,0,0,0,0,0,0
+FakeLanding,HopSkipJump,0,0,0,0,0,0
+ICMP Flooding,HopSkipJump,0,0,0,0,0,0
+Jamming,HopSkipJump,0,0,0,0,0,0
+MITM,HopSkipJump,0,0,0,0,0,0
+Scanning,HopSkipJump,0,0,0,0,0,0
+UDP Flooding,HopSkipJump,0,0,0,0,0,0
+replay,HopSkipJump,0,0,0,0,0,0
+BruteForce,Sign-OPT,0,0,0,0,0,0
+DDoS,Sign-OPT,0,0,0,0,0,0
+De-authentication,Sign-OPT,0,0,0,0,0,0
+DoS,Sign-OPT,0,0,0,0,0,0
+FakeLanding,Sign-OPT,0,0,0,0,0,0
+ICMP Flooding,Sign-OPT,0,0,0,0,0,0
+Jamming,Sign-OPT,0,0,0,0,0,0
+MITM,Sign-OPT,0,0,0,0,0,0
+Scanning,Sign-OPT,0,0,0,0,0,0
+UDP Flooding,Sign-OPT,0,0,0,0,0,0
+replay,Sign-OPT,0,0,0,0,0,0

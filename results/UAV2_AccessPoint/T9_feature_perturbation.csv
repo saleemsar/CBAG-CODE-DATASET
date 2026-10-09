@@ -1,0 +1,21 @@
+class,feature,n_survivors,frac_moved,mean_abs_delta
+Fake Landing,wlan.fcs.bad_checksum,66,1.0,0.0214
+Fake Landing,radiotap.channel.flags.cck,66,1.0,0.0182
+Fake Landing,wlan.fc.subtype,66,1.0,0.0351
+Fake Landing,udp.length,66,1.0,0.1109
+Fake Landing,nbss.continuation_data,66,1.0,0.1733
+Fake Landing,nbns,66,1.0,0.2038
+Fake Landing,radiotap.present.tsft,66,1.0,0.0793
+Fake Landing,frame.encap_type,66,1.0,1.4429
+Fake Landing,wlan.fc.retry,66,0.061,0.002
+Fake Landing,wlan.fc.pwrmgt,66,0.061,0.0064
+Scanning,radiotap.rxflags,189,1.0,0.0168
+Scanning,udp.length,189,1.0,0.0599
+Scanning,nbss.continuation_data,189,1.0,0.098
+Scanning,nbns,189,1.0,0.155
+Scanning,radiotap.present.tsft,189,1.0,0.0857
+Scanning,wlan_radio.data_rate,189,1.0,0.0437
+Scanning,frame.encap_type,189,1.0,1.4688
+Scanning,wlan.fcs.bad_checksum,189,0.063,0.0015
+Scanning,wlan.fc.pwrmgt,189,0.048,0.0022
+Scanning,wlan.fc.retry,189,0.042,0.0014

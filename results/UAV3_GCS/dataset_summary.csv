@@ -1,0 +1,11 @@
+class,train_rows,test_rows
+Benign,82,27
+Bruteforce,7621,2540
+DDoS,144619,48207
+De-authentication,991,330
+DoS,417213,139072
+Fake Landing,223,74
+Fake Landing ,223,75
+MITM,2484,828
+Reconnaissance,10747,3582
+Scanning,33414,11138
